@@ -192,3 +192,6 @@
 ---
 
 *animate-setup-steps · 更新于 2026-10-24 · 基于 MIT 许可证共享*
+
+
+*Last updated: 2026-10-24*
